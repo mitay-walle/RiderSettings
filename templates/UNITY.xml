@@ -1,0 +1,27 @@
+<templateSet group="UNITY">
+  <template name="uvardebug" value="#if UNITY_EDITOR&#10;    Debug.LogError(&quot;$var$ = &quot;+ $var$,gameObject);&#10;#endif" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="umessage" value="#if UNITY_EDITOR&#10;    Debug.LogError(&quot;$message$&quot;,gameObject);&#10;#endif" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="message" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="unull_debug" value="#if UNITY_EDITOR&#10;    Debug.Log(&quot;$var$ = &quot;+ ($var$ == null ? &quot;null&quot; : &quot;not null&quot;),gameObject);&#10;#endif" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="unull_if" value="if ($var$ != null)&#10;{&#10;    $do$&#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="do" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

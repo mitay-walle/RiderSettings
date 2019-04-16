@@ -1,0 +1,12 @@
+<application>
+  <component name="CodeLensSettings" defaultAnchor="Right">
+    <enabled>
+      <map>
+        <entry key="Unity implicit usage" value="false" />
+        <entry key="Unity serialized field" value="false" />
+        <entry key="VcsAuthorCodeLensProvider" value="false" />
+      </map>
+    </enabled>
+    <showUnavailable>false</showUnavailable>
+  </component>
+</application>
