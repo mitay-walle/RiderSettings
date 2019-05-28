@@ -1,11 +1,11 @@
-<scheme name="Visual Studio Dark custom" version="142" parent_scheme="Visual Studio Dark">
+<scheme name="_@user_Visual Studio Dark copy" version="142" parent_scheme="Visual Studio Dark">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-05-22T13:37:28</property>
+    <property name="created">2017-04-14T13:04:05</property>
     <property name="ide">Rider</property>
-    <property name="ideVersion">2018.1.0.0</property>
+    <property name="ideVersion">1.0.0.0</property>
     <property name="modified">2019-05-28T08:12:36</property>
-    <property name="originalScheme">_@user_Visual Studio Dark</property>
+    <property name="originalScheme">Visual Studio Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
@@ -45,11 +45,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="808080" />
-      </value>
-    </option>
     <option name="ReSharper.ENUM_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="d0d798" />
@@ -64,14 +59,14 @@
     <option name="SUGGESTION">
       <value>
         <option name="EFFECT_COLOR" value="488345" />
-        <option name="ERROR_STRIPE_COLOR" value="74407" />
+        <option name="ERROR_STRIPE_COLOR" value="a760a" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="6c5b17" />
-        <option name="ERROR_STRIPE_COLOR" value="402c00" />
+        <option name="EFFECT_COLOR" value="a88a35" />
+        <option name="ERROR_STRIPE_COLOR" value="ffb700" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
