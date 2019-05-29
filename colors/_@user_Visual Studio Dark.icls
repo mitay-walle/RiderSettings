@@ -4,7 +4,7 @@
     <property name="created">2017-04-14T13:04:05</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">1.0.0.0</property>
-    <property name="modified">2018-05-22T13:36:46</property>
+    <property name="modified">2019-05-29T13:25:45</property>
     <property name="originalScheme">Visual Studio Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -13,12 +13,12 @@
   <attributes>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="323431" />
+        <option name="FOREGROUND" value="b5b9b1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="323431" />
+        <option name="FOREGROUND" value="b5b9b1" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -35,7 +35,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="323431" />
+        <option name="FOREGROUND" value="b5b9b1" />
       </value>
     </option>
     <option name="ERRORS_ATTRIBUTES">
