@@ -4,16 +4,24 @@
     <property name="created">2019-08-13T00:53:38</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-08-13T00:58:58</property>
+    <property name="modified">2019-08-14T00:27:49</property>
     <property name="originalScheme">_@user_Visual Studio Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <colors>
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="222324" />
+  </colors>
   <attributes>
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
         <option name="ERROR_STRIPE_COLOR" value="d1d1d1" />
+      </value>
+    </option>
+    <option name="CSS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="ad7846" />
       </value>
     </option>
     <option name="CTRL_CLICKABLE">
@@ -48,9 +56,24 @@
         <option name="FOREGROUND" value="383a37" />
       </value>
     </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="8d6757" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_MARKUP">
+      <value>
+        <option name="FOREGROUND" value="767676" />
+      </value>
+    </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="c6c3c6" />
+        <option name="FOREGROUND" value="c7c7c7" />
+      </value>
+    </option>
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="cdd765" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -59,6 +82,9 @@
         <option name="EFFECT_COLOR" value="a7545e" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="DEFAULT_LABEL">
+      <value />
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
@@ -85,15 +111,38 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="FOLDED_TEXT_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="484848" />
+      </value>
+    </option>
+    <option name="ReSharper.BRACE_OUTLINE">
+      <value>
+        <option name="EFFECT_COLOR" value="5d5d5d" />
+      </value>
+    </option>
     <option name="ReSharper.ENUM_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="d0d798" />
+        <option name="FOREGROUND" value="ffdc7b" />
       </value>
     </option>
     <option name="ReSharper.HINT">
       <value>
         <option name="EFFECT_COLOR" value="147a1f" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="ReSharper.INACTIVE_PREPROCESSOR_BRANCH">
+      <value>
+        <option name="FOREGROUND" value="707070" />
+      </value>
+    </option>
+    <option name="ReSharper.LATE_BOUND_IDENTIFIER">
+      <value />
+    </option>
+    <option name="ReSharper.OUTLINED_ENTITY">
+      <value>
+        <option name="EFFECT_COLOR" value="444444" />
       </value>
     </option>
     <option name="ReSharper.ST_HYPERLINK">
@@ -120,11 +169,23 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="454849" />
+        <option name="ERROR_STRIPE_COLOR" value="888289" />
+      </value>
+    </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="69a1c3" />
         <option name="FONT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="a72b2" />
+      </value>
+    </option>
+    <option name="UNITY_PERFORMANCE_CRITICAL_CONTEXT">
+      <value>
+        <option name="BACKGROUND" value="a37452" />
+        <option name="EFFECT_COLOR" value="3c3f41" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
