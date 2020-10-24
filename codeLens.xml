@@ -2,6 +2,7 @@
   <component name="CodeLensSettings" defaultAnchor="Right">
     <enabled>
       <map>
+        <entry key="IL code" value="false" />
         <entry key="Unity implicit usage" value="false" />
         <entry key="Unity serialized field" value="false" />
         <entry key="VcsAuthorCodeLensProvider" value="false" />
