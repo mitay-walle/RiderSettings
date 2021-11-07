@@ -1,9 +1,12 @@
 <application>
+  <component name="UsageFilteringRuleState">
+    <option value="com.intellij.usages.impl.rules.ReadAccessFilteringRule" />
+  </component>
   <component name="UsageInGeneratedCodeFilteringSetting">
     <option name="enabled" value="false" />
   </component>
   <component name="UsageViewSettings">
     <option name="IS_FILTER_DUPLICATED_LINE" value="false" />
-    <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.9" />
+    <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.20465618" />
   </component>
 </application>
